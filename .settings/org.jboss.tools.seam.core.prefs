@@ -1,0 +1,16 @@
+action.package=org.domain.seamweb.session
+action.sources=/seamweb-ejb/ejbModule
+eclipse.preferences.version=1
+model.package=org.domain.seamweb.entity
+model.sources=/seamweb-ejb/ejbModule
+seam.ear.project=seamweb-ear
+seam.ejb.project=seamweb-ejb
+seam.project.connection.profile=New PostgreSQL
+seam.project.deployment.type=ear
+seam.project.settings.version=1.1
+seam.project.web.root.folder=/seamweb/WebContent
+seam.runtime.name=jboss-seam-2.2.2.Final
+seam.test.creating=true
+seam.test.project=seamweb-test
+test.package=org.domain.seamweb.test
+test.sources=/seamweb-test/test-src
